@@ -21,5 +21,5 @@ Kliknij ofertę, aby zostać przekierowanym do oryginalnego portalu po więcej i
 Monitoruj zmiany w wynagrodzeniu na przestrzeni czasu i uzyskaj dostęp do danych historycznych dla pełniejszego wglądu (już wkrótce).
 
 ## Zaangażuj Się 🤝  
-Twoje opinie są dla nas ważne! [Zgłaszaj problemy lub dziel się swoimi pomysłami]().  
+Twoje opinie są dla nas ważne! [Zgłaszaj problemy lub dziel się swoimi pomysłami](https://github.com/Czy-Jest-Eldorado/feature-requests/issues).  
 Razem ułatwmy proces szukania pracy, czyniąc go bardziej przejrzystym i przyjaznym! 🌟
