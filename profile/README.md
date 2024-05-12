@@ -34,10 +34,29 @@ Obecność na naszej platformie świadczy o tym, że Twój portal dba o jakość
 **Optymalizacja Strategii Rekrutacyjnych 🚀**  
 Dzięki analizie ruchu przekierowanego z naszej platformy, portale mogą lepiej zrozumieć, które oferty najbardziej interesują kandydatów. To pozwala zoptymalizować przyszłe strategie rekrutacyjne, dostosowując je do preferencji i zachowań użytkowników.
 
-**Zapraszamy do Współpracy 🤝**  
-Nie jesteśmy konkurencją, lecz uzupełnieniem dla portali z ofertami pracy. Naszym celem jest usprawnienie procesu pozyskiwania kandydatów, oferując jedno miejsce, które ułatwia dostęp do ofert i przyciąga szerszą grupę poszukujących pracy. Chętnie podejmiemy oficjalną współpracę z każdym portalem oferującym wysokiej jakości ogłoszenia o pracę, aby wspólnie usprawnić rynek rekrutacji. 
+## Polityka Pozyskiwania Danych
 
-Od momentu naszego powstania otrzymaliśmy wyjątkowo pozytywne opinie od użytkowników, co świadczy o akceptacji naszej inicjatywy. Użytkownicy doceniają naszą platformę jako narzędzie oszczędzające czas i ułatwiające znalezienie odpowiednich ofert.
+**Efektywne Crawlowanie 🚀**  
+Nasze algorytmy pobierają dane w zoptymalizowany sposób, minimalizując obciążenie systemów, z których pochodzą informacje.
+
+**Szacunek dla Zasobów 🌿**  
+Stosujemy ograniczenia liczby zapytań, dbając, by nie wpływać negatywnie na funkcjonowanie stron z ofertami pracy.
+
+**Zakres Zbieranych Danych 📋**  
+Zbieramy wyłącznie kluczowe informacje o ofertach pracy, takie jak:  
+- data publikacji oferty,  
+- adres do oferty,  
+- tytuł oferty,  
+- nazwa firmy publikującej ogłoszenie,  
+- miasto,  
+- typ kontraktu,
+- oferowane wynagrodzenie,
+- tryb pracy (zdalna/hybrydowa/stacjonarna),  
+- wymagany poziom doświadczenia,  
+- technologie i słowa kluczowe związane z ofertą.
+
+**Szacunek dla Praw Autorskich 🛡️**  
+Nie pobieramy obrazów ani treści, które mogą być chronione prawami autorskimi. Jeśli jakiekolwiek tego rodzaju dane przypadkowo znajdą się na naszej stronie, prosimy o niezwłoczny kontakt pod naszym adresem e-mail, abyśmy mogli je natychmiast usunąć.
 
 ## Zaangażuj Się 🤝  
 Twoje opinie są dla nas ważne! [Zgłaszaj problemy lub dziel się swoimi pomysłami](https://github.com/Czy-Jest-Eldorado/feature-requests/issues).  
